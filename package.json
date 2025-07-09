@@ -25,11 +25,11 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deviwax/goit-js-hw-091.git"
+    "url": "git+https://github.com/deviwax/goit-js-hw-09.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/deviwax/goit-js-hw-091/issues"
+    "url": "https://github.com/deviwax/goit-js-hw-09/issues"
   },
-  "homepage": "https://github.com/deviwax/goit-js-hw-091#readme"
+  "homepage": "https://github.com/deviwax/goit-js-hw-09#readme"
 }
